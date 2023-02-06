@@ -17,7 +17,10 @@ Everyday, I seek to improve myself in something whether it's my body, mind or sp
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
+## My Stats :
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egnodia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egnodia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
