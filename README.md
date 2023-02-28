@@ -23,7 +23,4 @@ Everyday, I seek to improve myself in something whether it's my body, mind or sp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egnodia)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Watch my contribution graph get eaten by the snake 🐍
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v1.1.4
