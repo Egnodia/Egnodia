@@ -13,10 +13,18 @@ Everyday, I seek to improve myself in something whether it's my body, mind or sp
 <br>
 
 ## Let's Connect 
+<a href="https://codepen.io/egnodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="egnodia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/egnodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egnodia" height="30" width="40" /></a>
 <br>
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egnodia&show_icons=true&locale=en&layout=compact" alt="egnodia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egnodia&show_icons=true&locale=en&layout=compact" alt="egnodia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egnodia&show_icons=true&locale=en" alt="egnodia" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egnodia&" alt="egnodia" /></p>
+<br>
+<br>
+
+## Watch My Contributions Get Eaten By A Snake :)
+<img src="https://raw.githubusercontent.com/E/E/blob/output/snake.svg" alt="Snake animation" />
+
