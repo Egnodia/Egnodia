@@ -24,7 +24,3 @@ Everyday, I seek to improve myself in something whether it's my body, mind or sp
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egnodia&" alt="egnodia" /></p>
 <br>
 <br>
-
-## Watch My Contributions Get Eaten By A Snake :)
-<img src="https://github.com/Egnodia/E/E/blob/output/snake.svg" alt="Snake animation" />
-
