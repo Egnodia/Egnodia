@@ -22,5 +22,4 @@ Everyday, I seek to improve myself in something whether it's my body, mind or sp
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egnodia&show_icons=true&locale=en&layout=compact" alt="egnodia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egnodia&show_icons=true&locale=en" alt="egnodia" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egnodia&" alt="egnodia" /></p>
-<br>
-<br>
+
