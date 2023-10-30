@@ -14,7 +14,7 @@ Everyday, I seek to improve myself in something whether it's my body, mind or sp
 
 ## Let's Connect 
 <a href="https://codepen.io/egnodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="egnodia" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/devante-toussaint-917198201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egnodia" height="30" width="40" /></a>
+<a href="https://linkedin.com/devante-toussaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egnodia" height="30" width="40" /></a>
 <br>
 <br>
 
